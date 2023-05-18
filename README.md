@@ -1,4 +1,4 @@
-# JS-Projects
+# JS-Projects (Learn, Practice, Create, Deploy)
 
 ## Reference:
 
@@ -19,7 +19,7 @@
 
 ### Project 1
 
-### Level: Beginner
+#### Level: Beginner
 
 #### To Do:
 
